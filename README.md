@@ -1,0 +1,1 @@
+It's repository with libraries Libverify, LibverifyControls and LibverifyExt.

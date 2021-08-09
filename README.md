@@ -14,6 +14,4 @@ Libverify Mail.ru (libverify@corp.mail.ru)
 
 ## License
 
-This project is distributing under LGPL license.
-Also it contains code from other projects such as **libPhoneNumber-iOS** and **YYModel**
-Please look at LICENSE and NOTICE files.
+This project is distributing under LGPL license. Also it contains code from other projects such as **libPhoneNumber-iOS** and **YYModel**. Please look at LICENSE and NOTICE files.

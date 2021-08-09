@@ -18,13 +18,13 @@ let package = Package(
     ],
     targets: [
         Target.binaryTarget(name: "Libverify",
-                            url: "https://github.com/mailru/LibverifySDK-iOS/releases/download/v0.0.1/Libverify.zip",
-                            checksum: "2ae55ccd41b0e2a57c218dd12d1dcf06a172c74aabfb91e55f2b651a031163ae"),
+                            url: "https://github.com/mailru/LibverifySDK-iOS/releases/download/v2.0.0/Libverify.zip",
+                            checksum: "f4943ae1dfd9b27048bf3b923327d66ea2575d89763e26e2200ff3cb29189061"),
         Target.binaryTarget(name: "LibverifyControls",
-                            url: "https://github.com/mailru/LibverifySDK-iOS/releases/download/v0.0.1/LibverifyControls.zip",
-                            checksum: "bac77ef0c1e3fd6002b969026ca55540c4cf4c13c5309b91a89a127c3c47f9c4"),
+                            url: "https://github.com/mailru/LibverifySDK-iOS/releases/download/v2.0.0/LibverifyControls.zip",
+                            checksum: "ad74f5a4ade4460133f6e3e7ebfb8728b2db1b7f27ad29da900cb82fc89b104e"),
         Target.binaryTarget(name: "LibverifyExt",
-                            url: "https://github.com/mailru/LibverifySDK-iOS/releases/download/v0.0.1/LibverifyExt.zip",
-                            checksum: "72285b558455dd52f8f90b3da2cb33ba06f5feec0e0870cf36047674f598b903")
+                            url: "https://github.com/mailru/LibverifySDK-iOS/releases/download/v2.0.0/LibverifyExt.zip",
+                            checksum: "f13d22c6b862da8e09ec2f9316d4916ea3217001edaa6c8bce90dc6f9930a618")
     ]
 )
